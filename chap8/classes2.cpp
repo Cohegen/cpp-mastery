@@ -1,5 +1,5 @@
 /*
-defining a class called Vehicle which stores 
+defining a class called Vehicle which stores
 information about a vehicle like the number of passengers it can carry,
 its fuel capacity and average fuel consumption
 */
@@ -22,7 +22,7 @@ Vehicle minivan;//creates a Vehicle object called minivan.
 
 After this statement executes, minivan will be an instance of Vehicle.
 Thus, it will have "physical" reality.
-Each time we create an instance of a class,we are creating an object that contains its own copy of 
+Each time we create an instance of a class,we are creating an object that contains its own copy of
 each instance variable defined by the class.
 To access these variables, we will use the dot (.) operator.
 The dot operator links the name of an object with the name of a member.

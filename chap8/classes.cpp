@@ -15,9 +15,9 @@ The general form of a simple declaration is:
       private data and functions
       public:
       public data and functions
-   
+
    }object-list;
-   
+
 Here class-name specifies the name of the class.
 This name becomes a new type name that can be used to create objects of the class.
 A class can contain private as well as public members.
