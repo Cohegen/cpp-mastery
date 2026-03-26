@@ -49,5 +49,5 @@ int main()
     range1 = minivan.range();
     range2 = sportscar.range();
 
-    cout << "Minivan can carry " << minivan.get_passengers() << "within a range of " << range1 << "\n";
+    cout << "Minivan can carry " << minivan.get_passengers() << " within a range of " << range1 << "\n";
 }
